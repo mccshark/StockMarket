@@ -1,4 +1,6 @@
 # StockMarket
-modules
-pip install yfinance
-pip install pandas
+Python modules:
+
+* pip install yfinance
+* pip install pandas
+* 
