@@ -1,4 +1,3 @@
 # StockMarket
-
-Libraries 
+modules
 pip install yfinance
