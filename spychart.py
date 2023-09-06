@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import yfinance as yf
 
 # Download historical data for SPY ETF for a full year
-data = yf.download("SPY", start="2021-01-01", end="2023-01-01")
+data = yf.download("SPY", start="2021-01-01", end="2023-09-05")
 
 # Calculate 50-day and 200-day Simple Moving Averages (SMA)
 data['SMA50'] = data['Close'].rolling(window=50).mean()
