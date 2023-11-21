@@ -18,4 +18,6 @@ plt.title('AAPL Close Price for the Past 120 Days')
 plt.grid(True)
 plt.legend()
 plt.show()
-print("thant's the end of the demo")
+print("thanks's the end of the demo")
+
+#end of program
