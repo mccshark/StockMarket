@@ -20,4 +20,5 @@ plt.legend()
 plt.show()
 print("thanks's the end of the demo")
 
-#end of program
+# pip install yfinance
+# pip install matplotlib
